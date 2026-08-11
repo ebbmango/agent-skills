@@ -1,4 +1,4 @@
 {
   "name": "agent-skills",
-  "postCreateCommand": "./scripts/link-skills.sh"
+  "postCreateCommand": "./scripts/setup-codespace.sh"
 }
