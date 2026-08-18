@@ -1,0 +1,4 @@
+interface:
+  display_name: "Batch Commit"
+  short_description: "Stage changes into focused, terse commits"
+  default_prompt: "Use $batch-commit to split and commit my working tree in functional batches."

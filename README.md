@@ -49,4 +49,6 @@ Review upstream changes and re-audit affected skill directories first. Then deli
 
 ## Current approved skills
 
+- `batch-commit` — groups working-tree changes into functional commits and uses `caveman-commit`
+  for their messages.
 - `caveman-commit` — commit-message generator from [`JuliusBrussee/caveman`](https://github.com/JuliusBrussee/caveman), pinned through the Caveman submodule.
