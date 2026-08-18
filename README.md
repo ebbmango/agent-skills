@@ -65,13 +65,19 @@ Review upstream changes and re-audit affected skill directories first. Then deli
 - `implement` — builds agreed work with TDD and code review, then commits it.
 - `improve-codebase-architecture` — finds and explores opportunities to deepen shallow modules.
 - `prototype` — builds throwaway code to answer a focused logic or interface-design question.
+- `research` — delegates primary-source research and writes a cited repository note.
+- `resolving-merge-conflicts` — resolves active merges and rebases from the intent of both sides.
 - `setup-matt-pocock-skills` — configures the per-repository issue tracker and domain-doc layout
   expected by the engineering skills.
 - `tdd` — drives implementation through focused red-green cycles.
+- `teach` — maintains a stateful workspace for learning a subject over multiple sessions.
 - `to-questionnaire` — writes a focused questionnaire for the person holding missing context.
 - `to-spec` — synthesizes an agreed conversation into a specification on the configured tracker.
 - `to-tickets` — splits plans into tracer-bullet tickets with explicit blocking edges.
+- `triage` — moves incoming issues and external PRs through configured triage roles.
 - `wait-what` — re-pitches an explanation with simpler language and missing context restored.
+- `wayfinder` — maps large, uncertain efforts as linked decision tickets on the issue tracker.
+- `wizard` — generates interactive Bash guides for procedures requiring human actions.
 - `writing-for-agents` — guides concise, reliable writing for agents and agent instructions.
 
 The Matt Pocock skills above are sourced from
