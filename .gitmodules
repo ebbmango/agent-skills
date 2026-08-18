@@ -1,3 +1,6 @@
 [submodule "upstream/caveman"]
 	path = upstream/caveman
 	url = https://github.com/JuliusBrussee/caveman.git
+[submodule "upstream/mattpocock-skills"]
+	path = upstream/mattpocock-skills
+	url = https://github.com/mattpocock/skills.git
